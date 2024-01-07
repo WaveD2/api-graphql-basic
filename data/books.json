@@ -1,0 +1,40 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "De Men Phieu Luu ky",
+      "genre": "To Hoai",
+      "authorId": 1
+    },
+    {
+      "id": 2,
+      "name": "De Men DI Ngu",
+      "genre": "Nam Cao",
+      "authorId": 2
+    },
+    {
+      "id": 3,
+      "name": "Cối xoay gió",
+      "genre": "To Hoai",
+      "authorId": 1
+    },
+    {
+      "id": 4,
+      "name": "Chiếc lá cuối cùng",
+      "genre": "Nam Cao",
+      "authorId": 2
+    },
+    {
+      "id": 5,
+      "name": "Lang thang",
+      "genre": "To Hoai",
+      "authorId": 1
+    },
+    {
+      "id": 6,
+      "name": "Chú chuột nhỏ",
+      "genre": "Đăng Tùng",
+      "authorId": 3
+    }
+  ]
+}

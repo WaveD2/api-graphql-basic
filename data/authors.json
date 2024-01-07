@@ -1,0 +1,22 @@
+{
+  "authors": [
+    {
+      "id": 1,
+      "name": "To Hoai",
+      "dress": "Ha Noi",
+      "age": 60
+    },
+    {
+      "id": 2,
+      "name": "Nam Cao",
+      "dress": "Nghe an",
+      "age": 62
+    },
+    {
+      "id": 3,
+      "name": "Đăng Tùng",
+      "dress": "Nghệ An",
+      "age": 20
+    }
+  ]
+}
